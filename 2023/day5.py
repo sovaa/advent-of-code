@@ -271,7 +271,7 @@ def part_2():
     print(f"[part2] {process_part_2('day5.txt')}")
 
 
-#test_part_1()
+test_part_1()
 test_part_2()
-#part_1()
+part_1()
 part_2()
