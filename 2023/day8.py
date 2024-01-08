@@ -126,9 +126,6 @@ def part_1():
 
 def part_2():
     result = process_part_2('day8.txt')
-    assert result < 5448913399014485733178768440
-    assert result < 147858713687432582970389100
-    assert result < 95971002323538
     assert result == 15995167053923
     print(f"[part2] {result}")
 
